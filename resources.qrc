@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>onHorny.jpg</file>
+        <file>baseball-bat.bmp</file>
+        <file>offHorny.png</file>
+        <file>ground.jpg</file>
+    </qresource>
+</RCC>
